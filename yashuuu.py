@@ -1,0 +1,2 @@
+a="yashu"
+print(a)
